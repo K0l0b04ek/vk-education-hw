@@ -1,1 +1,0 @@
-rootProject.name = "vk-education-hw"
